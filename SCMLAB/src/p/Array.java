@@ -5,8 +5,8 @@ public class Array {
 	public Array() { 
 		A = new int [10] ; 
 	}
-	public void setArray(int [] v){ 
-		A = v; 
+	public void setArray(int [] a){ 
+		A = a; 
 		} 
 		public int OCCUR( int key){ 
 		int count=0; 
